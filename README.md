@@ -31,7 +31,7 @@ Korea Brain Research Institute & Kyungpook National University
 
 ## 🎤 Conferences (Selected)
 - **Lee S.**, Cheong Y., ... **Jung M.*** (2025).  
-  *Bilingual Language Switching: Evidence of Enhanced Cognitive Control from Multimodal Data.* BESK, Feb 2025 – Poster
+  *Bilingual Language Switching: Evidence of Enhanced Cognitive Control from Multimodal Data.* BESK, Jun 2025 – Poster
 - **Lee S.**, Park E., Cheong Y., ... **Jung M.*** (2025).  
   *Effects of rTMS on Static Balance and Higher-Level Motor Function in Cerebellar Ataxia: A Pilot Study.* OHBM, Jun 2025 – Poster  
 
