@@ -59,3 +59,7 @@ Korea Brain Research Institute & Kyungpook National University
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sminlee01023&layout=compact)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=mathworks)
+
