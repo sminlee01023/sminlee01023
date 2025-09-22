@@ -43,7 +43,9 @@ Korea Brain Research Institute & Kyungpook National University
 
 ---
 
-## 📜 Certifications
+## 📜 Additional Trainings (Selected)
+- **KHBM Spring Symposium**, Korean Society of Human Brain Mapping, 2025
+- **OHBM 2024 Annual Meeting**, Organization for Human Brain Mapping, 2024
 - **Deep Learning Summer School**, Gachon University, Korea (2023)  
 - **Advanced Deep Learning Winter School**, DEEPNOID & Gachon University, Korea (2022)  
 
