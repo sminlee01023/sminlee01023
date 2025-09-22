@@ -58,6 +58,9 @@ Korea Brain Research Institute & Kyungpook National University
 
 ---
 
+## 💻 Code Availability
+The code related to my current projects will be made publicly available once the corresponding manuscripts are published.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sminlee01023&layout=compact)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
