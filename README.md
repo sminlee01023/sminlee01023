@@ -57,3 +57,5 @@ Korea Brain Research Institute & Kyungpook National University
 - **3D Modeling**: AutoCAD for research and experimental setups  
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sminlee01023&layout=compact)
