@@ -22,20 +22,19 @@ Korea Brain Research Institute & Kyungpook National University
 ---
 
 ## 📄 Publications (Manuscripts in Preparation)
-- Lee S., Park E., Cheong Y., Lee S., Ro J., Bae J., Lee H.*, Jung M.* (2025).  
+- **Lee S.**, Park E., Cheong Y., Lee S., Ro J., Bae J., **Lee H.*, Jung M.*** (2025).  
   *Repetitive Transcranial Magnetic Stimulation Improves Static Balance Control in Cerebellar Ataxia: A Pilot Study.* Manuscript in preparation.  
-- Lee S., Kim J., Son Y.* (2025).  
+- **Lee S.**, Kim J., **Son Y.*** (2025).  
   *Identifying Language Processing Brain Networks in Object Naming Tasks using Dynamic Functional MRI.* Manuscript in preparation.  
 
 ---
 
 ## 🎤 Conferences (Selected)
-- Lee S., Park E., Cheong Y., ... Jung M.* (2025).  
+- **Lee S.**, Cheong Y., ... **Jung M.*** (2025).  
+  *Bilingual Language Switching: Evidence of Enhanced Cognitive Control from Multimodal Data.* BESK, Feb 2025 – Poster
+- **Lee S.**, Park E., Cheong Y., ... **Jung M.*** (2025).  
   *Effects of rTMS on Static Balance and Higher-Level Motor Function in Cerebellar Ataxia: A Pilot Study.* OHBM, Jun 2025 – Poster  
-- Lee S., Cheong Y., ... Jung M.* (2025).  
-  *Bilingual Language Switching: Evidence of Enhanced Cognitive Control from Multimodal Data.* BESK, Feb 2025 – Poster  
-- Lee S., Park E., ... Jung M.* (2024).  
-  *Effect of rTMS on Improvement of Balance and Muscle Control in Patients with Cerebellar Ataxia.* Yeongnam AI Neuroimaging Forum, Sep 2024 – Oral  
+
 
 ---
 
