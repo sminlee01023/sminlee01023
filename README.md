@@ -2,8 +2,8 @@
 MS Student, Department of Artificial Intelligence  
 Korea Brain Research Institute & Kyungpook National University  
 
-📧 [sminlee0123@gmail.com](mailto:sminlee0123@gmail.com) | [sminlee0123@kbri.re.kr](mailto:sminlee0123@kbri.re.kr)  
-
+📧 [sminlee0123@@gmail.com](mailto:sminlee0123@gmail.com) | [sminlee0123@kbri.re.kr](mailto:sminlee0123@kbri.re.kr)  
+✨ [Homepage](https://sminlee01023.github.io/)
 
 ---
 
