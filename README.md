@@ -31,7 +31,7 @@ Korea Brain Research Institute & Kyungpook National University
 
 ## 🎤 Conferences (Selected)
 - **Lee S.**, Cheong Y., ... **Jung M.*** (2026).  
-  *When Brain Signals Speak: Predicting L2 Proficiency in an fNIRS Language-Switching Paradigm* KSCP, Jan 2026 – Oral
+  *When Brain Signals Speak: Predicting L2 Proficiency in an fNIRS Language-Switching Paradigm* KSCP, Jan 2026 – **Oral**
 - **Lee S.**, Cheong Y., ... **Jung M.*** (2025).  
   *Bilingual Language Switching: Evidence of Enhanced Cognitive Control from Multimodal Data.* BESK, Jun 2025 – Poster
 - **Lee S.**, Park E., Cheong Y., ... **Jung M.*** (2025).  
