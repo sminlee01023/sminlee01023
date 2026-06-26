@@ -22,8 +22,8 @@ Korea Brain Research Institute & Kyungpook National University
 ---
 
 ## 📄 Publications (Manuscripts in Preparation)
-- **Lee S.**, Park E., Cheong Y., Lee S., Ro J., Bae J., **Lee H.*, Jung M.*** (2025).  
-  *Repetitive Transcranial Magnetic Stimulation Improves Static Balance Control in Cerebellar Ataxia: A Pilot Study.* Manuscript in preparation.  
+- **Lee S.**, Park E., Cheong Y., Ro J., Kim J., **Lee H.*, Jung M.*** (2025).  
+  *Feasibility and preliminary signal of cerebellar intermittent theta burst stimulation for static balance in cerebellar ataxia: a pilot study.* Accepted.  
 - **Lee S.**, Kim J., **Son Y.*** (2025).  
   *Identifying Language Processing Brain Networks in Object Naming Tasks using Dynamic Functional MRI.* Manuscript in preparation.  
 
@@ -46,6 +46,7 @@ Korea Brain Research Institute & Kyungpook National University
 ---
 
 ## 📜 Additional Trainings (Selected)
+- **KHBM Spring Symposium - Gradient Course**, Korean Society of Human Brain Mapping, 2026
 - **KHBM Spring Symposium**, Korean Society of Human Brain Mapping, 2025
 - **OHBM 2024 Annual Meeting**, Organization for Human Brain Mapping, 2024
 - **Deep Learning Summer School**, Gachon University, Korea (2023)  
