@@ -21,8 +21,8 @@ Korea Brain Research Institute & Kyungpook National University
 
 ---
 
-## 📄 Publications (Manuscripts in Preparation)
-- **Lee S.**, Park E., Cheong Y., Ro J., Kim J., **Lee H.*, Jung M.*** (2025).  
+## 📄 Publications
+- **Lee S.**, Park E., Cheong Y., Ro J., Kim J., **Lee H., Jung M.*** (2026).  
   *Feasibility and preliminary signal of cerebellar intermittent theta burst stimulation for static balance in cerebellar ataxia: a pilot study.* Accepted.  
 - **Lee S.**, Kim J., **Son Y.*** (2025).  
   *Identifying Language Processing Brain Networks in Object Naming Tasks using Dynamic Functional MRI.* Manuscript in preparation.  
