@@ -67,7 +67,7 @@ Korea Brain Research Institute & Kyungpook National University
 ## 💻 Code Availability
 The code related to my current projects will be made publicly available once the corresponding manuscripts are published.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sminlee01023)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](./profile/stats.svg)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=mathworks)
