@@ -1,5 +1,5 @@
 # Sumin Lee
-MS Student, Department of Artificial Intelligence  
+MS, Department of Artificial Intelligence  
 Korea Brain Research Institute & Kyungpook National University  
 
 📧 [sminlee0123@@gmail.com](mailto:sminlee0123@gmail.com) | [sminlee0123@kbri.re.kr](mailto:sminlee0123@kbri.re.kr)  
@@ -8,7 +8,7 @@ Korea Brain Research Institute & Kyungpook National University
 ---
 
 ## 🎓 Education
-- **M.S. in Artificial Intelligence**, Kyungpook National University, Korea (Sep 2024 – Present)  
+- **M.S. in Artificial Intelligence**, Kyungpook National University, Korea (Sep 2024 – Aug 2026)  
 - **B.S. in Biomedical Engineering & Bio-Mechatronics (AI track)**, Gachon University, Korea (Feb 2020 – Feb 2024)  
   - *Cum Laude*  
 
@@ -46,9 +46,10 @@ Korea Brain Research Institute & Kyungpook National University
 ---
 
 ## 📜 Additional Trainings (Selected)
-- **KHBM Spring Symposium - Gradient Course**, Korean Society of Human Brain Mapping, 2026
-- **KHBM Spring Symposium**, Korean Society of Human Brain Mapping, 2025
-- **OHBM 2024 Annual Meeting**, Organization for Human Brain Mapping, 2024
+- **RIKEN CBS Summer Program 2026 - Development and Disorders: Genes, Networks, and Behavior Across Life**, RIKEN Center for Brain Science (2026)
+- **KHBM Spring Symposium - Gradient Course**, Korean Society of Human Brain Mapping (2026)
+- **KHBM Spring Symposium**, Korean Society of Human Brain Mapping (2025)
+- **OHBM 2024 Annual Meeting**, Organization for Human Brain Mapping (2024)
 - **Deep Learning Summer School**, Gachon University, Korea (2023)  
 - **Advanced Deep Learning Winter School**, DEEPNOID & Gachon University, Korea (2022)  
 
@@ -56,7 +57,7 @@ Korea Brain Research Institute & Kyungpook National University
 
 ## 🛠 Skills
 - **Neuroimaging Analysis**: MRI (SPM12, MATLAB, Python, R), fNIRS (MATLAB, Python)  
-- **Physiological Signal Processing**: EMG, eye-tracking, pupillometry (MATLAB, Python)  
+- **Physiological Signal Processing**: EMG, GSR, eye-tracking, pupillometry (MATLAB, Python)
 - **Data Science & ML**: Feature engineering, predictive modeling (Python)  
 - **Experimental Design & Programming**: E-Prime, PsychoPy  
 - **3D Modeling**: AutoCAD for research and experimental setups  
@@ -66,7 +67,7 @@ Korea Brain Research Institute & Kyungpook National University
 ## 💻 Code Availability
 The code related to my current projects will be made publicly available once the corresponding manuscripts are published.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sminlee01023&layout=compact)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sminlee01023)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=mathworks)
